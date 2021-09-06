@@ -1,3 +1,7 @@
   # its neccesory to builed a map trough the engineer
   # its give the idea to owner how thre house look like 
-  #and also measure proper size of house and room size in it 
+  #and also measure proper size of house and room size in it
+
+  
+  - ooper ki sari jankari sahi hai
+  - maherbani kar kar koi daught na kare
